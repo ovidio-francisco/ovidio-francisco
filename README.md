@@ -1,15 +1,12 @@
 ## Olá 👋<br> Esse é o meu repositório com algumas contribuições. Bem vindo! Sinta-se a vontade para conhecer.
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovidio-francisco&show_icons=true&theme=radical)
--->
-
 <div>
   <a href="https://github.com/ovidio-francisco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovidio-francisco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovidio-francisco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
   
 ### Tecnologia que uso no dia a dia
 
@@ -23,12 +20,10 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Shell Script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-
-  
-  
 </div>
 
-
+##
+  
 ### Pode me encontrar por aqui:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ovidio-francisco/)
