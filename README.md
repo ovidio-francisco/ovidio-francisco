@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Olá! 👋 Esse é o meu repositório com algumas contribuições. Bem vindo! Sinta-se a vontade para conhecer.
+
 <!--
 **ovidio-francisco/ovidio-francisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
