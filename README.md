@@ -1,4 +1,4 @@
-## Olá 👋<br> Aqui estão algumas de minhas contribuições. Bem vindo! Sinta-se a vontade para conhecer.
+## Hi! <br> Here are some of my contributions. Feel free to explore.
 
 <div>
   <a href="https://github.com/ovidio-francisco">
